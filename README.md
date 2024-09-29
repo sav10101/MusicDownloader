@@ -1,4 +1,4 @@
 # MusicDownloader
-![MusicDownloaderDiseño](https://github.com/user-attachments/assets/cd616991-aaff-4197-9f32-9b305b2b2a01)
+![MusicDownloaderDiseño](https://github.com/user-attachments/assets/d3ba8a6c-7f36-4c73-bb07-d30745cfe965)
 
 
